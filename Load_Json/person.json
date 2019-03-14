@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Akhil Goyal",
+        "age" : "23",
+        "height" : "172",
+        "gender" : "male",
+        "hair_colour" : "black"
+    },
+    
+    {
+        "name" : "Akshit Bansal",
+        "age" : "23",
+        "height" : "176",
+        "gender" : "male",
+        "hair_colour" : "black"
+    },
+    {
+        "name" : "Anurag vats",
+        "age" : "21",
+        "height" : "162",
+        "gender" : "male",
+        "hair_colour" : "black"
+    },
+    {
+        "name" : "Anurag Gupta",
+        "age" : "23",
+        "height" : "175",
+        "gender" : "male",
+        "hair_colour" : "black"
+    }
+
+]
